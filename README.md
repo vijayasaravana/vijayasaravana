@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vijayasaravanan
 - 👀 I’m interested in data analyst role
 - 🌱 I’m currently learning python and azure
-- 💞️ I’m looking to collaborate on people who geeting things done
+- 💞️ I’m looking to collaborate on people who getting things done
 - 📫 How to reach me-vijayasaravanan8080@gmail.com
 
 <!---
