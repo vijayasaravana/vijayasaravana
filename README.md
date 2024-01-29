@@ -1,6 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Analytics and developing <br>🤝 I’m looking for helping me to developing model in ML<br>🌱 I’m currently learning software development in python
-<br>  📊 Preparing Dashboard in Power BI and Tableau <br>💬 Ask me about data insights <br>⚡ Fun fact Iam a lazy fast learner 
+👯 I’m looking to collaborate on Analytics and developing <br>🤝 I’m looking for helping me to developing model in ML<br>🌱 I’m currently Looking for real life experience<br>  📊 Preparing Dashboard in Power BI and Tableau <br>💬 Ask me about data insights <br>⚡ Fun fact Iam a lazy fast learner 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/vijayasaravanan-c) 
